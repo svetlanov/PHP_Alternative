@@ -1,0 +1,20 @@
+[
+    {
+        "username": "ggg",
+        "correct_answers": 4,
+        "total_questions": 10,
+        "percentage": 40
+    },
+    {
+        "username": "test",
+        "correct_answers": 8,
+        "total_questions": 10,
+        "percentage": 80
+    },
+    {
+        "username": "test2",
+        "correct_answers": 9,
+        "total_questions": 10,
+        "percentage": 90
+    }
+]
